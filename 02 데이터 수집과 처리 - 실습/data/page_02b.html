@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>				
+<html lang=“en”>
+
+<!-- 이 행은 주석. -->
+<head>
+<meta content="text/html; charset=utf-8" />				
+<title>CSS 셀렉터 예문 2</title>
+</head>
+<!--  여기까지가 헤드. -->
+
+<!-- style 정의! -->
+<style>
+
+.myClass1 {
+	color:blue;
+	background-color:gray;
+	font-weight:bolder;
+    }
+
+.myClass2 {
+	color:red;
+	background-color:yellow;
+	font-weight:lighter;
+    }
+
+.myClass3 {
+	color:green;
+	background-color:orange;
+	font-weight:normal;
+    }
+
+div.myClass3 {
+	color:white;
+	background-color:black;
+	font-weight:normal;
+    }
+
+li.myClass3 {
+	color:gray;
+	background-color:red;
+	font-weight:bolder;
+    }
+
+#myID1 {
+	color:yellow;
+	background-color:violet;
+	font-weight:bolder;
+    }
+
+#myID2 {
+	color:yellow;
+	background-color:blue;
+	font-weight:bolder;
+    }
+
+
+</style>
+
+<body>
+<h1 class="myClass1"> 헤더 1.1 </h1>
+<h1 class="myClass2"> 헤더 1.2 </h1>
+<h1 class="myClass3"> 헤더 1.3 </h1>
+
+<h2 class="myClass1"> 헤더 1.1 </h2>
+<h2 class="myClass2"> 헤더 1.2 </h2>
+<h2 class="myClass3"> 헤더 1.3 </h2>
+
+<p class="myClass1"> Paragraph 1. </p> 
+<p class="myClass2" id="myID1"> Paragraph 2. </p> 
+<p class="myClass3"> Paragraph 3. </p> 
+
+<div class="myClass3">
+<br>
+   <span> A Single line within a div tag. </span>
+<br>
+<p class="myClass1"> Paragraph 4. </p> 
+<p class="myClass2"> Paragraph 5. </p> 
+<p class="myClass3"> Paragraph 6. </p> 
+<br>
+</div>
+<br>
+
+<div>
+<br>
+다음은 ordered list이다:
+<ol>
+<li class="myClass1"> 아이템 하나. </li>
+<li class="myClass2"> 아이템 둘. </li>
+<li class="myClass3" id = "myID2"> 아이템 셋. </li>
+<li class="myClass1"> 아이템 넷. </li>
+<li class="myClass2"> 아이템 다섯. </li>
+<li class="myClass3"> 아이템 여섯. </li>
+</ol>
+<br>
+</div>
+
+</body>
+<!-- 여기까지가 몸통. -->
+
+</html>
