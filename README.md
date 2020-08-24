@@ -6,7 +6,8 @@
 - 사용 언어 및 프로그램 : Python / Jupyter Notebook
 
 
-- 교재 : 데이터 분석을 위한 파이썬 철저 입문   <https://wikibook.co.kr/python-for-data-analysis/>, ppt 강의자료
+- 교재 : 데이터 분석을 위한 파이썬 철저 입문, ppt 강의자료
+- 코드 출처 : <https://wikibook.co.kr/python-for-data-analysis/>
 
 - 교육 내용 : 비정형데이터를 수집하고 자연어 처리를 통해 문서 내 인사이트로 도출 
 
