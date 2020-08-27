@@ -11,7 +11,7 @@
 - 2020.01.13 ~ 2020.01.15 (2박 3일)
 
 ### 사용 언어 및 프로그램
-Python / Jupyter Notebook, Spyder
+Python / Jupyter Notebook
 
 ### 나의 역할
 - 프랜차이즈 카페 데이터 수집
