@@ -11,7 +11,7 @@
 - 2020.01.13 ~ 2020.01.15 (2박 3일)
 
 ### 사용 언어 및 프로그램
-Python / Jupyter Notebook
+- Python / Jupyter Notebook
 
 ### 팀원
 - 3명
