@@ -14,7 +14,7 @@
 - Python / Jupyter Notebook
 
 ### 팀원
-- 3명
+- 4명
 
 ### 분석 방향
 #### 1. 설계 단계
